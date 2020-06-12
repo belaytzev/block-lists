@@ -1,0 +1,9 @@
+!Fonts from Google
+@@|fonts.gstatic.com^$important
+!Yandex domains
+@@||yandex.ru^$important
+@@||yandex.net^$important
+!Vkontakte Social network
+@@||vk.com^$important
+!Aviasales aggregation for plain tickets
+@@||aviasales.ru^$important
