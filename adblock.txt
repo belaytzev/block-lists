@@ -6,3 +6,5 @@
 @@||aviasales.ru^$important
 !Kinopoisk.ru
 @@|strm.yandex.ru^$important
+!Yandex Weather
+@@|yandex-pogoda.naydex.net^$important
