@@ -4,3 +4,5 @@
 @@||vk.com^$important
 !Aviasales aggregation for plain tickets
 @@||aviasales.ru^$important
+!Kinopoisk.ru
+@@|strm.yandex.ru^$important
