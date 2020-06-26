@@ -1,0 +1,9 @@
+!Yandex Market
+||avatars.mds.yandex.net/get-market_banners/*$domain=market.yandex.ru^$import
+!Yandex Weather
+antpogoda.yandex.ru,pogoda.yandex.by,pogoda.yandex.ua,pogoda.yandex.kz##.content__top > div[class^="navigation-city "] > div:not([class="navigation-city__controls"])
+pogoda.yandex.ru,pogoda.yandex.by,pogoda.yandex.ua,pogoda.yandex.kz##.info__ratatue > div.info__more.info__map
+pogoda.yandex.ru##div[class^="current-weather navigation-city "] > div[class*="__"]
+pogoda.yandex.ru##div[class$="adbca_js_inited"]
+pogoda.yandex.ru##.info.info_pos_2 > div[class^="info__more info__map "]:not([class="info__map"]):not(.info__more_neighbor_abs)
+@@||yastatic.net/weather-frontend^$domain=pogoda.yandex.ru^$import
