@@ -1,6 +1,6 @@
 !Yandex Market
-||fenek.market.yandex.ru
-||fox.market.yandex.ru
+||fenek.market.yandex.ru^$important
+||fox.market.yandex.ru^$important
 !Google Doubleclick
 ||doubleclick.net^$important
 ||doubleclick.com^$important
