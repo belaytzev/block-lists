@@ -4,6 +4,7 @@
 @@||vk.com^$important
 !Aviasales aggregation for plain tickets
 @@||aviasales.ru^$important
+@@||avs.io^$important
 !Kinopoisk.ru
 @@|strm.yandex.ru^$important
 !Yandex weather
