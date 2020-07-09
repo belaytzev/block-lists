@@ -4,3 +4,5 @@
 !Google Doubleclick
 ||doubleclick.net^$important
 ||doubleclick.com^$important
+!Aviasales
+||mobile-ads.aviasales.ru^$important
