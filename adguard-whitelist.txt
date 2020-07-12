@@ -14,5 +14,3 @@
 @@||xboxlive.com^$important
 !Ozon.ru
 @@||ozon.ru^$important
-!Retracker.local
-@@||retracker.local^$important
