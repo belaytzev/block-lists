@@ -14,3 +14,5 @@
 @@||xboxlive.com^$important
 !Ozon.ru
 @@||ozon.ru^$important
+!Gstatic
+@@||gstatic.com^$important
