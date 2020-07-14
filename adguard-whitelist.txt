@@ -16,3 +16,5 @@
 @@||ozon.ru^$important
 !Gstatic
 @@||gstatic.com^$important
+!Flops.ru
+@@||flops.ru^$important
