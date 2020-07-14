@@ -18,3 +18,5 @@
 @@||gstatic.com^$important
 !Flops.ru
 @@||flops.ru^$important
+!Microsoft Teams
+@@||teams.microsoft.com^$important
