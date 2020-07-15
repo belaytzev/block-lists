@@ -20,3 +20,5 @@
 @@||flops.ru^$important
 !Microsoft Teams
 @@||teams.microsoft.com^$important
+!MCS
+@@||mcs.st^$important
