@@ -22,3 +22,5 @@
 @@||teams.microsoft.com^$important
 !MCS
 @@||mcs.st^$important
+!Roem.ru
+@@||roem.ru^$important
