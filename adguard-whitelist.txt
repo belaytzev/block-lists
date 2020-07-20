@@ -26,3 +26,5 @@
 @@||roem.ru^$important
 !app.link
 @@||app.link^$important
+!VisualStudio Code
+@@||code.visualstudio.com^$important
