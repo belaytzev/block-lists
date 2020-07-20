@@ -28,3 +28,4 @@
 @@||app.link^$important
 !VisualStudio Code
 @@||code.visualstudio.com^$important
+@@||msecnd.net^$important
