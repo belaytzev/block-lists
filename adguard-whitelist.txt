@@ -24,3 +24,5 @@
 @@||mcs.st^$important
 !Roem.ru
 @@||roem.ru^$important
+!app.link
+@@||app.link^$important
