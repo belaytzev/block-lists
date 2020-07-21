@@ -1,5 +1,4 @@
 !Aviasales aggregation for plain tickets
 @@||aviasales.ru^$important
-@@||avs.io^$important
 !Xbox
 @@||xboxlive.com^$important
