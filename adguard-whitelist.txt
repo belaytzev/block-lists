@@ -3,3 +3,5 @@
 @@|pics.avs.io^$important
 !Xbox
 @@||xboxlive.com^$important
+!Fonts Google
+@@|fonts.gstatic.com^$important
