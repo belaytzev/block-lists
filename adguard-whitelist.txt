@@ -1,25 +1,7 @@
 !Aviasales aggregation for plain tickets
 @@||aviasales.ru^$important
 @@||avs.io^$important
-!Start.ru
-@@||start.ru^$important
-@@||start.film^$important
 !Xbox
 @@||xboxlive.com^$important
-!Ozon.ru
-@@||ozon.ru^$important
 !Gstatic
 @@||gstatic.com^$important
-!Flops.ru
-@@||flops.ru^$important
-!Microsoft Teams
-@@||teams.microsoft.com^$important
-!MCS
-@@||mcs.st^$important
-!Roem.ru
-@@||roem.ru^$important
-!app.link
-@@||app.link^$important
-!VisualStudio Code
-@@||code.visualstudio.com^$important
-@@||msecnd.net^$important
