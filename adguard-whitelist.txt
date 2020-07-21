@@ -1,5 +1,3 @@
-!Vkontakte Social network
-@@||vk.com^$important
 !Aviasales aggregation for plain tickets
 @@||aviasales.ru^$important
 @@||avs.io^$important
