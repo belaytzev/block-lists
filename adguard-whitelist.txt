@@ -9,3 +9,5 @@
 @@||feeds.soundcloud.com^$important
 !VK.com CDN
 @@||st.vk.com^$important
+!Galyonkin.com KDIcast
+@@||galyonkin.com^$important
