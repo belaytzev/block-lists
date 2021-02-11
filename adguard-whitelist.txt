@@ -11,3 +11,5 @@
 @@||st.vk.com^$important
 !Galyonkin.com KDIcast
 @@||galyonkin.com^$important
+!Sentry.io
+@@||sentry-cdn.com^$important
