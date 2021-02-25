@@ -13,3 +13,5 @@
 @@||galyonkin.com^$important
 !Sentry.io
 @@||sentry-cdn.com^$important
+!DatadogHQ
+@@||datadoghq.com^$important
