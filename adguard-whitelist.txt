@@ -15,3 +15,5 @@
 @@||sentry-cdn.com^$important
 !DatadogHQ
 @@||datadoghq.com^$important
+!Newrelic
+@@||newrelic.com^$important
