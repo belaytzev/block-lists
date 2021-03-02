@@ -17,3 +17,5 @@
 @@||datadoghq.com^$important
 !Newrelic
 @@||newrelic.com^$important
+!AWS
+@@||analytics.console.aws.a2z.com^$important
