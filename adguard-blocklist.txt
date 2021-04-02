@@ -1,4 +1,4 @@
-!Yandex Market
+!Yandex
 ||fenek.market.yandex.ru^$important
 ||fox.market.yandex.ru^$important
 ||crossdist.yandex.net^$important
