@@ -1,8 +1,10 @@
 !Yandex Market
 ||fenek.market.yandex.ru^$important
 ||fox.market.yandex.ru^$important
-!Google Doubleclick
-||doubleclick.net^$important
-||doubleclick.com^$important
-!Aviasales
-||mobile-ads.aviasales.ru^$important
+||crossdist.yandex.net^$important
+||clck.yandex.net^$important
+||scbh.yandex.net^$important
+||yandex.net.ti1orn^$important
+||tc.mobile.yandex.net^$important
+||soft.export.yandex.ru^$important
+||quasar.yandex.net^$important
