@@ -19,3 +19,5 @@
 @@||newrelic.com^$important
 !AWS
 @@||analytics.console.aws.a2z.com^$important
+!Notion.so
+@@||www.notion.so^$important
