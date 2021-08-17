@@ -4,7 +4,6 @@
 ||crossdist.yandex.net^$important
 ||clck.yandex.net^$important
 ||scbh.yandex.net^$important
-||yandex.net.ti1orn^$important
 ||tc.mobile.yandex.net^$important
 ||soft.export.yandex.ru^$important
 ||quasar.yandex.net^$important
