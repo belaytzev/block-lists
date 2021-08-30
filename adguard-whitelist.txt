@@ -22,4 +22,5 @@
 !Osnova.io Platform Comitet
 @@||osnova.io^$important
 !Tinkoff Journal
+@@||static-cdn.tinkoffjournal.ru^$important
 @@||static2.tinkoffjournal.ru^$important
