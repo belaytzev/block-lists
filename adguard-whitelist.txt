@@ -21,3 +21,5 @@
 @@||www.notion.so^$important
 !Osnova.io Platform Comitet
 @@||osnova.io^$important
+!Tinkoff Journal
+@@||static2.tinkoffjournal.ru^$important
