@@ -25,3 +25,5 @@
 @@||img-cdn.tinkoffjournal.ru^$important
 @@||static-cdn.tinkoffjournal.ru^$important
 @@||static2.tinkoffjournal.ru^$important
+!Xsolla
+@@||xsolla.com^$important
