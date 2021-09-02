@@ -25,4 +25,3 @@
 @@||img-cdn.tinkoffjournal.ru^$important
 @@||static-cdn.tinkoffjournal.ru^$important
 @@||static2.tinkoffjournal.ru^$important
-@@||dp.tinkoff.ru^$important
