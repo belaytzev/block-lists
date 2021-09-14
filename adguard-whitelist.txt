@@ -29,3 +29,5 @@
 @@||xsolla.com^$important
 !EpicGames
 @@||media-cdn.epicgames.com^$important
+!Samsung
+@@||ns11.whois.co.kr^$important
