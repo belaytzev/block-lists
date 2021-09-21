@@ -31,3 +31,5 @@
 @@||media-cdn.epicgames.com^$important
 !Samsung
 @@||whois.co.kr^$important
+!Xbox
+@@||events.data.microsoft.com^$important
