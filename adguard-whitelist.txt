@@ -30,4 +30,4 @@
 !EpicGames
 @@||media-cdn.epicgames.com^$important
 !Samsung
-@@||ns11.whois.co.kr^$important
+@@||whois.co.kr^$important
