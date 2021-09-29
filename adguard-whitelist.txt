@@ -11,6 +11,7 @@
 @@||galyonkin.com^$important
 !Sentry.io
 @@||sentry-cdn.com^$important
+@@||sentry.io^$important
 !DatadogHQ
 @@||datadoghq.com^$important
 !Newrelic
