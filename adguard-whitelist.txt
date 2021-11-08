@@ -34,3 +34,5 @@
 @@||whois.co.kr^$important
 !Xbox
 @@||events.data.microsoft.com^$important
+!ClickHouse
+@@||clickhouse.com^$important
