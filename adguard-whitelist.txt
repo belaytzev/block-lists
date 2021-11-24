@@ -36,3 +36,5 @@
 @@||events.data.microsoft.com^$important
 !ClickHouse
 @@||clickhouse.com^$important
+!Yandex
+@@||sso.passport.yandex.ru^$important
