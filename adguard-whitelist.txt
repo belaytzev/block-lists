@@ -38,3 +38,5 @@
 @@||clickhouse.com^$important
 !Yandex
 @@||sso.passport.yandex.ru^$important
+!LG TV
+@@||lgtvsdp.com^$important
