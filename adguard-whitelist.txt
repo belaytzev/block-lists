@@ -39,4 +39,4 @@
 !Yandex
 @@||sso.passport.yandex.ru^$important
 !LG TV
-@@||ru.rdx2.lgtvsdp.com^$important
+@@||lgtvsdp.com^$important
