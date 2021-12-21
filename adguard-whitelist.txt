@@ -34,6 +34,7 @@
 @@||whois.co.kr^$important
 !Xbox
 @@||events.data.microsoft.com^$important
+@@||licensing.mp.microsoft.com^$important
 !ClickHouse
 @@||clickhouse.com^$important
 !Yandex
