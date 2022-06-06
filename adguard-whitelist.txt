@@ -43,3 +43,5 @@
 @@||lgtvonline.lge.com^$important
 !Instagram
 @@||i.instagram.com^$important
+!Apple
+@@||apps.apple.com^$important
