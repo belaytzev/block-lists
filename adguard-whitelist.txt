@@ -45,3 +45,5 @@
 @@||i.instagram.com^$important
 !Apple
 @@||apps.apple.com^$important
+!Twitter
+@@||t.co^$important
