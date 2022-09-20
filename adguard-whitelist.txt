@@ -41,8 +41,6 @@
 @@||sso.passport.yandex.ru^$important
 !LG TV
 @@||lgtvonline.lge.com^$important
-!Instagram
-@@||i.instagram.com^$important
 !Apple
 @@||apps.apple.com^$important
 !Twitter
