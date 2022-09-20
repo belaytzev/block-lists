@@ -39,6 +39,7 @@
 @@||clickhouse.com^$important
 !Yandex
 @@||sso.passport.yandex.ru^$important
+@@||avatars.mds.yandex.net^$important
 !LG TV
 @@||lgtvonline.lge.com^$important
 !Apple
