@@ -46,3 +46,5 @@
 @@||apps.apple.com^$important
 !Twitter
 @@||t.co^$important
+!SetApp
+@@||stats.setapp.com^$important
