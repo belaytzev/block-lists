@@ -44,6 +44,7 @@
 @@||lgtvonline.lge.com^$important
 !Apple
 @@||apps.apple.com^$important
+@@||itunes.apple.com^$important
 !Twitter
 @@||t.co^$important
 !SetApp
