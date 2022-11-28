@@ -50,3 +50,5 @@
 !SetApp
 @@||stats.setapp.com^$important
 @@||store.setapp.com^$important
+!Slack
+@@||slack-edge.com^$important
