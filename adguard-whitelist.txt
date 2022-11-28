@@ -52,3 +52,5 @@
 @@||store.setapp.com^$important
 !Slack
 @@||slack-edge.com^$important
+!Jumpcloud
+@@||jumpcloud.com^$important
