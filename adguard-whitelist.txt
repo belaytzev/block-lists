@@ -49,3 +49,4 @@
 @@||t.co^$important
 !SetApp
 @@||stats.setapp.com^$important
+@@||store.setapp.com^$important
