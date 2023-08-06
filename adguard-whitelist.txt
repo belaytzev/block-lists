@@ -1,2 +1,4 @@
 !Zscaler
 @@||zscalertwo.net^$important
+!Datadog EU
+@@||static.datadoghq.com^$important
