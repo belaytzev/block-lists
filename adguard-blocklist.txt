@@ -1,3 +1,2 @@
 !Yandex
-||clck.yandex.net^$important
-||quasar.yandex.net^$important
+||common.dot.dns.yandex.net^$important
