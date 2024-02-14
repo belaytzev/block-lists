@@ -6,3 +6,5 @@
 @@||tailscale.com^$important
 !Sparklabs.com
 @@||sparklabs.com^$important
+!Telemetrydeck.com
+@@||nom.telemetrydeck.com^$important
