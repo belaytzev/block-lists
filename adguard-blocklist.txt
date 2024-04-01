@@ -1,2 +1,8 @@
+!Public DNS
+||dns.yandex.net^$important
+||dns.yandex.ru^$important
 !Yandex
-||common.dot.dns.yandex.net^$important
+||clck.yandex.net^$important
+||scbh.yandex.net^$important
+||quasar.yandex.ru^$important
+||quasar.yandex.net^$important
