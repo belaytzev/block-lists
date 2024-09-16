@@ -6,3 +6,4 @@
 ||scbh.yandex.net^$important
 ||quasar.yandex.ru^$important
 ||quasar.yandex.net^$important
+||report.appmetrica.yandex.net^$important
