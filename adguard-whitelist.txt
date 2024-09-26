@@ -4,6 +4,8 @@
 @@||static.datadoghq.com^$important
 !Tailscale
 @@||tailscale.com^$important
+!ZeroTier
+@@||zerotier.com^$important
 !Sparklabs.com
 @@||sparklabs.com^$important
 !iCloud
