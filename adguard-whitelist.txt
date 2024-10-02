@@ -6,6 +6,8 @@
 @@||tailscale.com^$important
 !ZeroTier
 @@||zerotier.com^$important
+!NextDNS
+@@||nextdns.io^$important
 !Sparklabs.com
 @@||sparklabs.com^$important
 !iCloud
